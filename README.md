@@ -1,10 +1,9 @@
  
 <h1 align="center">Hi 👋, I'm Hassan Baig</h1>
-<h3 align="center">An aspiring web developer and a Computer Science student.</h3>
+<h3 align="center">An aspiring Full Stack developer and a Computer Science student.</h3>
 
 <p><br></p>
 
-- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **hassanbaig329@outlook.com**
  <p><br><br></p>
