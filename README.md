@@ -22,7 +22,7 @@
 
 <p><br><br></p>
 <p><img align="left" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=hassanbaigdev&show_icons=true&locale=en&layout=compact" alt="hassanbaigdev" /></p>
-<p><br><p>
+<p><br></br><p>
 <p><img align="center" src="https://streak-stats.demolab.com?user=HassanBaigDEV&theme=tokyonight&hide_border=true" alt="hassanbaigdev-streak-stats" /></p>
 
 <!--
